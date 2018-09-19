@@ -1,0 +1,6 @@
+**.pyc
+**.swp
+**.swo
+**.jpg
+!resources/images/test/**.jpg
+__pycache__
